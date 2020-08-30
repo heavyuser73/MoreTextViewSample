@@ -10,5 +10,5 @@ License : Acache 2.0 을 따릅니다.
 
 ## Screenshots
 
-![screenshot](screenshots/Screenshot_1598792096.png)
-![screenshot](screenshots/Screenshot_1598792103.png)
+![screenshot](ScreenShots/Screenshot_1598792096.png)
+![screenshot](ScreenShots/Screenshot_1598792103.png)
